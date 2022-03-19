@@ -1,8 +1,8 @@
-# Nahyodle
+# Nah Yo-dle
 
 A Mennonite-inspired version of Wordle based on React Wordle (https://github.com/cwackerfuss/react-wordle)
 
-[**Try out the demo!**](https://nahyodle.com)
+[**Try out the game!**](https://nahyodle.com)
 
 ## Build and run
 
