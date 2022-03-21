@@ -91,7 +91,13 @@ export const StatsModal = ({
             {SHARE_TEXT}
           </button>
         </div>
-      )}
+			)}
+			<div>
+				<h4 className="text-lg mb-2 leading-6 font-medium text-gray-900 dark:text-gray-100">
+					What does it mean?
+				</h4>
+				<p>For yesterday's answers and definitions <a className="font-bold underline" href="https://instagram.com/nahyodle">follow @nahyodle on Instagram</a>.</p>
+			</div>
     </BaseModal>
   )
 }
