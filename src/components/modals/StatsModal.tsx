@@ -65,7 +65,7 @@ export const StatsModal = ({
         numberOfGuessesMade={numberOfGuessesMade}
       />
       {(isGameLost || isGameWon) && (
-        <div className="mt-5 sm:mt-6 columns-2 dark:text-white">
+        <div className="mt-5 mb-6 sm:mt-6 columns-2 dark:text-white">
           <div>
             <h5>{NEW_WORD_TEXT}</h5>
             <Countdown
